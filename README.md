@@ -1,7 +1,5 @@
 # Notiz-App
 
-Eine moderne Notiz-Anwendung mit Dark Mode Theme, entwickelt mit PySide6 und SQLite.
-
 ### 📝 Beschreibung
 
 Eine moderne Notiz-Anwendung mit Dark Mode Theme, entwickelt mit PySide6 und SQLite. Die App bietet eine intuitive Benutzeroberfläche mit geteilter Ansicht - Notizenliste links, Editor rechts.
