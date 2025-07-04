@@ -83,6 +83,11 @@ Die .exe Datei befindet sich dann im `dist/` Ordner.
 
 Die Notizen werden in einer lokalen SQLite-Datenbank (`notizen.db`) gespeichert, die automatisch beim ersten Start erstellt wird.
 
+### 🔒 Sicherheit & Datenschutz
+
+Diese Anwendung speichert **ausschließlich lokal** auf Ihrem Gerät. Es findet **keine Datenübertragung** über das Internet oder an Dritte statt.  
+Die Nutzung erfolgt auf eigene Verantwortung. Für Datenverlust oder Schäden wird keine Haftung übernommen.
+
 ### 📋 Systemanforderungen
 
 - Python 3.7+
@@ -185,6 +190,11 @@ The .exe file will be located in the `dist/` folder.
 
 Notes are stored in a local SQLite database (`notizen.db`) that is automatically created on first start.
 
+### 🔒 Security & Privacy
+
+This application stores data **exclusively locally** on your device. There is **no data transmission** over the internet or to third parties.  
+Use at your own risk. No liability is assumed for data loss or damages.
+
 ### 📋 System Requirements
 
 - Python 3.7+
@@ -203,44 +213,5 @@ Notes are stored in a local SQLite database (`notizen.db`) that is automatically
 - Reinstall dependencies: `pip install -r requirements.txt`
 
 ### 📄 License
-
-MIT License
-- **Geteilte Ansicht**: Notizenliste links, Editor rechts
-- **Intuitive Bedienung**: Einfache und benutzerfreundliche Oberfläche
-
-## Installation
-
-1. Stellen Sie sicher, dass Python 3.7+ installiert ist
-2. Installieren Sie die Abhängigkeiten:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Verwendung
-
-Starten Sie die Anwendung mit:
-```bash
-python main.py
-```
-
-### Bedienung
-
-- **Neue Notiz**: Klicken Sie auf "Neue Notiz" und geben Sie einen Titel ein
-- **Notiz öffnen**: Klicken Sie auf eine Notiz in der Liste links
-- **Notiz löschen**: Wählen Sie eine Notiz aus und klicken Sie auf "Löschen"
-- **Bearbeiten**: Ändern Sie Titel und Inhalt im rechten Editor
-- **Automatisches Speichern**: Ihre Änderungen werden automatisch gespeichert
-
-## Datenbank
-
-Die Notizen werden in einer lokalen SQLite-Datenbank (`notizen.db`) gespeichert, die automatisch beim ersten Start erstellt wird.
-
-## Systemanforderungen
-
-- Python 3.7+
-- PySide6
-- SQLite3 (im Python Standard enthalten)
-
-## Lizenz
 
 MIT License
