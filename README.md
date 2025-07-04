@@ -107,7 +107,7 @@ Die Nutzung erfolgt auf eigene Verantwortung. Für Datenverlust oder Schäden wi
 
 ### 📄 Lizenz
 
-MIT License
+[MIT License](LICENSE)
 
 ---
 
@@ -214,4 +214,4 @@ Use at your own risk. No liability is assumed for data loss or damages.
 
 ### 📄 License
 
-MIT License
+[MIT License](LICENSE)
